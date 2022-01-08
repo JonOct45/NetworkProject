@@ -11,12 +11,7 @@ Please use this README file (or a new one) to provide the following documentatio
 is your proof that the project was working on your side.
 * A few sentences about all the challenges you found during the implementation of this project and
 how you overcame them. Please be honest here.
-
-## Note that failure to provide the above docs will result in a 30% deduction in your final grade for this project. 
-
-## Project Description and Detailed Guidelines (must read)
-
-Detailed guidelines about this project can be found in this file. Failure to follow them may result in a bad grade in your project. Take this into consideration. Please read them carefully, and don't hesitate to ask the instructor for clarification if needed. 
+ 
 
 The project goal is to create a basic command line TCP/UDP Server-Client architecture network to provide basic services to multiple clients.
 
@@ -32,18 +27,8 @@ This project template consist in two folders (Client and Server).
         1. server.py -- copy and paste from your lab4 implementation. 
         2. clienthandler.py -- implement this file based on the functionality needed for this project
         3. menu.py -- implement the methods marked as TODO
-        
-   ***IMPORTANT: if needed, you can add more files to this project as its implementation progresses. However,
-   you are not allowed to modify the code from client.py and server.py once you copied and pasted it from
-   the labs. The only values students are allowed to modify in server.py are the IP address and port of the server***
+      
 
-## Project Requirements and Output Examples (***must read***)
-
-The following are the guidelines you must follow to implement this project.
-
-***IMPORTANT: in this README file when I refer to server or client, I am not referring to a particular file. I am, 
-however, referring to all the files on those sides. To refer to a specific file, I will mention the name of the 
-file. For example, server.py***
 
 ### Server
 
