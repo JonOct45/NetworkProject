@@ -18,7 +18,7 @@ TCP/UDP Protocols
        
  
 
-2. Receiving and Sending headers. I realized that I had a lot of attributes and methods that were not uniform and were making things complicated. This brought up more frustration, and with out utilizing some Test Methods that were in ClientHelper, I was not able to completely create Menu processing out of the Client.
+2. Receiving and Sending headers. I realized that I had a lot of attributes and methods that were not uniform and were making things complicated. This brought up more issues handling objects.
 
         This resolve took the entire project as I removed and implimented Methods, in some cases complicating things. Towards the end, I was able to get a more clear concise set of methods and attributes that I could use. I later discovered a different way of getting information to the client as they connected. This is where I sent the Menu and the ID. 
 
